@@ -1,1 +1,1 @@
-# video-Trimmer-Merger-
+# pip install -r requirements.txt
